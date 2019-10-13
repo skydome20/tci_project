@@ -14,11 +14,7 @@ Tutorial article: [The simple way to deploy your own ERC-20 cryptocurrency on Et
 ### pet-shop
 
 
-Deploying an Dapp (pet-shop, by `truffle unbox pet-shop`) on local private network, successful interact with web interface(web3)
-
-Followed instructions by this tutorial [Ethereum Pet Shop -- Your First Dapp](https://www.trufflesuite.com/tutorials/pet-shop)
-
-Other reference: 
+Deploying an Dapp (pet-shop, by `truffle unbox pet-shop`) on local private network, successful interact with web interface(web3). Followed instructions by this tutorial [Ethereum Pet Shop -- Your First Dapp](https://www.trufflesuite.com/tutorials/pet-shop)
 
 https://www.trufflesuite.com/boxes/pet-shop
 
