@@ -1,6 +1,6 @@
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic = "subway autumn time soft odor gravity hard capable garlic mixed nephew satisfy";
-var infura_url = "https://rinkeby.infura.io/v3/645cd82a65a04f22832743c46ec31aae";
+var mnemonic = "<your account twelve words(seed phrases) ...>";
+var infura_url = "<Infura Rinkeby Endpoint-API>";
 
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
